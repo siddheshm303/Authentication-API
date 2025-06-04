@@ -26,7 +26,7 @@ This is a secure authentication API built using the MERN stack, featuring email 
 
 ## 🔄 Activity Diagram
 
-![Activity Diagram](docs/activity-diagram.png)
+![Activity Diagram](Activity Diagram - Forgot Password.jpg)
 
 🚀 Getting Started
 
